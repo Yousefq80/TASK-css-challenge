@@ -1,0 +1,28 @@
+body{
+    background-image: url(./img/pokemon-bg.jpg);
+}
+    
+img{
+    
+    
+    width: 20%; 
+     height: 20%;;
+     
+border: 8px ridge blue;  
+padding: 5px;  
+
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:1000px;
+    
+  }
+  
+.flex-container> div {
+    
+    
+    width: 1000px;
+    height: 1000px;
+  }
